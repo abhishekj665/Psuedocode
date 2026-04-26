@@ -1280,7 +1280,7 @@ public class Q18 {
 
 
 
-ARRAY
+
 
 
 Q1 — Array Input & Output
