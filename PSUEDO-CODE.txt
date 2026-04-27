@@ -1,7 +1,4 @@
-/*
-Elements of Pseudo Code
 
-Keywords:
 
 INTEGER, REAL, BOOLEAN, CHAR, STRING, DATE
 IF, ELSE, ENDIF
