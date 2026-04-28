@@ -7,9 +7,6 @@ IF, ELSE, ENDIF
 
 Identifiers:
 
-Name of variable / function
-Example: x, sum
-
 
 
 
