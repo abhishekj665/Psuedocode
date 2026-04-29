@@ -1,13 +1,7 @@
 
 
 INTEGER, REAL, BOOLEAN, CHAR, STRING, DATE
-IF, ELSE, ENDIF
-
-
-
-Identifiers:
-
-
+IF, ELSE, ENDI
 
 
 Literals:
