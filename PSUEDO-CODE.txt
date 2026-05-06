@@ -1,4 +1,4 @@
-Psuedocode Intial
+Psuedocode Intial Statementa
 
 INTEGER, REAL, BOOLEAN, CHAR, STRING, DATE
 IF, ELSE, ENDI
