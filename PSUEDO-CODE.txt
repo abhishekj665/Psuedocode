@@ -4,7 +4,7 @@ INTEGER, REAL, BOOLEAN, CHAR, STRING, DATE
 IF, ELSE, ENDI
 
 
-Literal:
+Literal
 12, 12.5, TRUE, "ABC"
 
 
