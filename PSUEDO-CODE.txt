@@ -19,7 +19,7 @@ X = X + 1  (Not allowed)
 
 
 
-Variables:
+Variables 
 DECLARE x : INTEGER
 DECLARE y : REAL
 DECLARE z : BOOLEAN
