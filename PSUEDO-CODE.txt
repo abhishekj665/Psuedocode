@@ -22,7 +22,7 @@ Variables
 DECLARE x : INTEGER
 DECLARE y : REAL
 DECLARE z : BOOLEAN
-*/
+
 
 
 
