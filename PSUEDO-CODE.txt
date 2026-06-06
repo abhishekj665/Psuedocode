@@ -21,15 +21,7 @@ X = X + 1  (Not allowed)
 Variables 
 DECLARE x : INTEGER
 DECLARE y : REAL
-DECLARE z : BOOLEAN
-
-
-
-
-
-
-
-import java.util.Scanner;
+DECLARE z 
 
 public class Examples {
 
