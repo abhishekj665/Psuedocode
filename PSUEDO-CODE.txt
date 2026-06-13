@@ -20,10 +20,6 @@ public class Examples {
 
         Scanner sc = new Scanner(System.in);
 
-
-
-
-
         /*
         Example: Circle
 
