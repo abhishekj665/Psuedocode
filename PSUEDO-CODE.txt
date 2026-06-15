@@ -3,7 +3,7 @@ PSUEDOCODE NOTES -
 INTEGER, REAL, BOOLEAN, CHAR, STRING
 IF, ELSE, ENDI
 
-Constants -
+Constants 
 CONSTANT PI := 3.14
 CONSTANT X := 10
 X = X + 1  (Not allowed)
